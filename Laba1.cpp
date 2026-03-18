@@ -24,7 +24,7 @@ int main() {
         cout << "Ошибка: угол должен быть в диапазоне (0, 360] градусов!" << endl;
         return 1;
     }
-    
+    //test
     // Вычисления
     double area = M_PI * radius * radius;           // Площадь круга: π * r²
     double perimeter = 2 * M_PI * radius;           // Длина окружности: 2 * π * r
